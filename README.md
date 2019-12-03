@@ -2,6 +2,6 @@
 
 Instagram AR filter to create a maximum of 4 clones of yourself by opening your mouth slightly.
 
-![Demo](./demo.mp4)
+![Demo](demo.gif)
 
 Platform: Spark AR Studio
